@@ -1,0 +1,5 @@
+<library path="nav2_hybrid_planner_plugin">
+	<class name="nav2_hybrid_planner::HybridPlanner" type="nav2_hybrid_planner::HybridPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description>Hybrid global planner that generates a feasible, obstacle-aware path by blending graph search with continuous-space smoothing.</description>
+	</class>
+</library>
